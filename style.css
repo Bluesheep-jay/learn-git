@@ -1,4 +1,8 @@
 body{
     background: teal;
     color: white;
+    margin: 10px 10px;
+    box-sizing: border-box;
+    padding: 0 0;
+    font-size: x-large;
 }
